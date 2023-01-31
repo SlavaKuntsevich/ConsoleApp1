@@ -1,0 +1,15 @@
+D:\Lessons\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.exe
+D:\Lessons\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.deps.json
+D:\Lessons\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Lessons\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.dll
+D:\Lessons\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.pdb
+D:\Lessons\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Lessons\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Lessons\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Lessons\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Lessons\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.dll
+D:\Lessons\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\refint\ConsoleApp1.dll
+D:\Lessons\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.pdb
+D:\Lessons\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\Lessons\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ref\ConsoleApp1.dll
